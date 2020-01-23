@@ -1,0 +1,1 @@
+This is a proxy for accessing the Baby Connect API from https://github.com/bdarnell/babyface. It exists to work around the Fitbit SDK's inability to handle cookies; it transforms Cookie and Set-Cookie headers into data in the request/response bodies. Not affiliated with either Fitbit or Baby Connect. 
